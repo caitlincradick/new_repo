@@ -1,0 +1,1 @@
+I know git add filename, git status, git log, git push, git commit -m "", git remote remove origin. 
